@@ -1,4 +1,3 @@
-
 body {
   background-color: #dddddd;
   color: #000000;
@@ -9,17 +8,18 @@ header {
   background-color: #04012C;
   color: #F7F0F5;
   text-align: center;
-  padding:30px;
+  padding: 30px;
 }
 
-h1{
+h1 {
   font-size: 36px;
 }
-h2{
-  color:#04012C;
+
+h2 {
+  color: #04012C;
 }
 
-  p{
-    font-size: 18px;
-    list-style: 1.6;
-  } 
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
